@@ -32,3 +32,37 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# OS Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+*.code-workspace
+.sublime-project
+.sublime-workspace
+
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Temp files
+*.tmp
+*.temp
+
+# Build output
+dist/
+out/
+*.jar
+*.war
+*.ear
